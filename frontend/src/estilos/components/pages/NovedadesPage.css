@@ -1,0 +1,16 @@
+.titulo h2{
+    font-size: 4em;
+    font-style: inherit;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(12, 11, 12);
+    margin: 0%;
+}
+.subtitulo {
+    font-size: 4em;
+    font-style: inherit;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(12, 11, 12);
+    margin: 0%;
+}
